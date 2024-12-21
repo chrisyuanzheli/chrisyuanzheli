@@ -9,6 +9,8 @@
 
 - 🤝 I’m looking for help with **getting better in coding**
 
+- 👨‍💻 All of my projects are available at [http://localhost:8888/lab/tree/RTC%3AFinal%20Project.ipynb](http://localhost:8888/lab/tree/RTC%3AFinal%20Project.ipynb)
+
 - 💬 Ask me about **anything!**
 
 - 📫 How to reach me **chris.li.yl2637@yale.edu**
